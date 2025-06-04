@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Manic Creations
 
-<!--
-**naseefameer03/naseefameer03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Senior PHP Developer | 7+ Years Experience | Laravel, APIs, CI/CD
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I’m a passionate and results-driven PHP developer with over **7 years** of experience in building robust web applications, RESTful APIs, and enterprise platforms.
+
+I take pride in writing clean, testable code, following best practices, and delivering real-world solutions that make an impact.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend:** PHP 8+, Laravel, CodeIgniter, Symfony (basic), REST APIs
+- **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap
+- **Database:** MySQL, PostgreSQL
+- **DevOps:** Git, GitHub Actions, Docker (basic), XAMPP
+- **Tools:** Postman, VSCode, Figma (basic)
+- **Others:** Stripe, JWT, OAuth2, Google APIs, Spatie Packages
+
+---
+
+### 📂 Featured Repositories
+
+- 🔐 [Laravel RESTful API with Authentication](#) – Secure API boilerplate using Laravel + Sanctum  
+- 📦 [Custom Laravel Package](#) – A plug-and-play reusable component  
+- 🛠️ [Mini CRM System](#) – Lightweight CRM built with Laravel & MySQL
+
+---
+
+### 📈 What I’m Working On
+
+- 🔭 Open-source Laravel starter projects
+- 📘 Writing clean API documentation
+- 🚀 Exploring Docker + CI/CD for Laravel
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: naasfameer@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/naseef-ameer-dev1995](#)
+- 🌐 Portfolio: [naseefameer.rf.gd](#)
+
+---
+
+### 🤝 Looking for Collaboration
+
+If you're working on a Laravel-based product, SaaS, or internal tool and need help building or scaling your backend—**let’s chat!**
+
+---
+
+> 🔁 *Check out my pinned repositories to explore my projects!*
