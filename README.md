@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manic Creations
+# 👋 Hi, I'm Naseef Ameer
 
 ### 💻 Senior PHP Developer | 7+ Years Experience | Laravel, APIs, CI/CD
 
