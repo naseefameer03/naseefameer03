@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naseef</h1>
+<h1 align="center">Hi 👋, I'm Naseef Ameer</h1>
 <h3 align="center">Backend-focused Software Developer | Laravel Specialist | Clean Architecture Advocate</h3>
 
 ---
@@ -23,36 +23,53 @@
 - 📈 **Custom CRM Solutions** – Built lead management, sales pipeline reports, activity logs, and API-driven dashboards.
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ Skills & Technologies
 
-#### Languages & Frameworks
+#### 🧩 Languages & Frameworks
+
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-E44D26?style=flat-square&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB3?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### Tools & Platforms
+#### ☁️ Cloud & AWS Services
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
+![RDS](https://img.shields.io/badge/-RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazon-sqs&logoColor=white)
+![SES](https://img.shields.io/badge/-SES-FF9900?style=flat-square&logo=amazon-ses&logoColor=white)
+![CloudFront](https://img.shields.io/badge/-CloudFront-828282?style=flat-square&logo=amazon-cloudfront&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/-CodePipeline-00B140?style=flat-square&logo=aws-codepipeline&logoColor=white)
+
+#### 🛠️ Tools & Platforms
+
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![LAMP](https://img.shields.io/badge/-LAMP-004880?style=flat-square&logo=apache&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 ---
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naseefameer03)
-- 🧑‍💻 [Portfolio / Blog](https://naseefameer.rf.gd) *(optional if you have one)*
+- 📧 Email: naasfameer@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/naseef-ameer-dev1995](#)
+- 🌐 Portfolio: [naseefameer.rf.gd](#)
 - ✉️ Reach out for collaborations, interesting backend challenges, or just to chat tech!
-
----
-
-### ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naseefameer03&show_icons=true&theme=github_dark&hide_title=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naseefameer03&layout=compact&theme=github_dark&hide=html,css" height="180"/>
-</p>
 
 ---
 
