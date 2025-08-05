@@ -19,18 +19,22 @@ Passionate about solving real-world problems through clean, maintainable code.
 
 ### 📈 Centrimlife
 > A multi-tenant ERP for aged care & retirement living with CRM, Lifestyle, Visitor, Dining, and Service modules.
+
 **Tech Stack**: Laravel, MySQL, AWS, jQuery, Firebase, Bootstrap
 
 ### 🏥 Person Centered Feedback System
 > Feedback system with modules for surveys, PCI, and incidents; used in care facilities.
+
 **Tech Stack**: CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
 ### 🧬Multi-Level Marketing (MLM) System
 > FeedbackBuilt complex binary-tree-based MLM logic with wallet, payout, and reporting features.
+
 **Tech Stack**: CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
 ### 📰 News Aggregator App (Ongoing)
 > Pulls news from external APIs, stores locally, and enables search/filter.
+
 **Tech Stack**: Laravel 12, REST API, MySQL, JavaScript, Tailwind CSS
 ---
 
