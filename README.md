@@ -8,7 +8,7 @@ Passionate about solving real-world problems through clean, maintainable code.
 ## 🧑‍💻 About Me
 
 - 💻 7+ years of experience in web development, primarily using **PHP**, **Laravel**, and **CodeIgniter**
-- 🔁 Built scalable backend systems, RESTful APIs, and complex business logic for enterprise apps
+- 🔁 Built scalable backend systems, RESTful APIs, and complex business logic for enterprise apps, Payment gateway integrations, and Enterprise software.
 - ☁️ Experienced in deploying applications on **AWS (EC2, RDS, S3, SQS, SES, CloudFront, CodePipeline)**
 - 📈 Advocate for clean code, SOLID principles, and test-driven development
 - 🔒 Interested in system design, security, and performance optimization
@@ -17,11 +17,11 @@ Passionate about solving real-world problems through clean, maintainable code.
 
 ## 🚀 Notable Projects
 
-### 🧬 Centrimlife
+### 📈 Centrimlife
 > A multi-tenant ERP for aged care & retirement living with CRM, Lifestyle, Visitor, Dining, and Service modules.
 **Tech Stack**: Laravel, MySQL, AWS, jQuery, Firebase, Bootstrap
 
-### 🧬 Person Centered Feedback System
+### 🏥 Person Centered Feedback System
 > Feedback system with modules for surveys, PCI, and incidents; used in care facilities.
 **Tech Stack**: CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
@@ -37,13 +37,13 @@ Passionate about solving real-world problems through clean, maintainable code.
 ## 🧑‍🔧 Tech Stack
 
 **Languages & Frameworks**  
-`PHP` `Laravel` `CodeIgniter` `JavaScript` `jQuery` `Node.js` `React.js` `Bootstrap` `HTML` `CSS` `MySQL` `VueJs`
+`PHP` `Laravel` `CodeIgniter` `Core PHP` `WordPress` `MySQL` `JavaScript` `jQuery` `Node.js` `React.js` `VueJs`  `HTML` `CSS` `Bootstrap`
 
 **Cloud & DevOps**  
 `AWS EC2` `RDS` `S3` `SQS` `SES` `CloudFront` `CodePipeline`
 
 **Tools & Platforms**  
-`Ubuntu` `LAMP` `XAMPP` `Git` `SVN` `Postman` `Google Analytics` `Stripe` `VSCode` `sublime`
+`Ubuntu` `LAMP` `XAMPP` `Git` `SVN` `Postman` `Google Analytics` `Stripe` `VSCode` `API Integrations`
 
 ---
 
