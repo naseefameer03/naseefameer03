@@ -8,6 +8,7 @@ Passionate about solving real-world problems through clean, maintainable code.
 ## 🧑‍💻 About Me
 
 - 💻 7+ years of experience in web development, primarily using **PHP**, **Laravel**, and **CodeIgniter**
+- 🎓 B.Tech in Computer Science & Engineering
 - 🔁 Built scalable backend systems, RESTful APIs, and complex business logic for enterprise apps, Payment gateway integrations, and Enterprise software.
 - ☁️ Experienced in deploying applications on **AWS (EC2, RDS, S3, SQS, SES, CloudFront, CodePipeline)**
 - 📈 Advocate for clean code, SOLID principles, and test-driven development
