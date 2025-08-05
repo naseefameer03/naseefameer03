@@ -36,6 +36,7 @@ Passionate about solving real-world problems through clean, maintainable code.
 > Pulls news from external APIs, stores locally, and enables search/filter.
 
 **Tech Stack**: Laravel 12, REST API, MySQL, JavaScript, Tailwind CSS
+
 ---
 
 ## 🧑‍🔧 Tech Stack
