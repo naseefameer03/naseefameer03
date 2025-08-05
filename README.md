@@ -17,63 +17,41 @@ Passionate about solving real-world problems through clean, maintainable code.
 
 ## 🚀 Notable Projects
 
-### 🧬 Multi-Level Marketing (MLM) System
-> My first major professional project  
-Built a full-fledged MLM system that supported:
-- Complex tree structures (Binary, Matrix)
-- Commission calculations and payouts
-- Wallet system with withdrawal/transfer
-- Role-based dashboard and transaction management
-- Custom reports and user hierarchy
+### 🧬 Centrimlife
+> A multi-tenant ERP for aged care & retirement living with CRM, Lifestyle, Visitor, Dining, and Service modules.
+**Tech Stack**: Laravel, MySQL, AWS, jQuery, Firebase, Bootstrap
 
-**Tech Stack**: PHP, Laravel, MySQL, jQuery, Bootstrap, Cron Jobs
+### 🧬 Person Centered Feedback System
+> Feedback system with modules for surveys, PCI, and incidents; used in care facilities.
+**Tech Stack**: CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
----
+### 🧬Multi-Level Marketing (MLM) System
+> FeedbackBuilt complex binary-tree-based MLM logic with wallet, payout, and reporting features.
+**Tech Stack**: CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
 ### 📰 News Aggregator App (Ongoing)
-> Personal project to fetch and index articles from external APIs like NewsAPI  
-- Stores and indexes news articles by category, source, date, and author
-- Optimized for scalable search using Laravel with indexing strategies
-- Supports debounced search, filtering, and pagination
-- API ready for frontend integration
-
+> Pulls news from external APIs, stores locally, and enables search/filter.
 **Tech Stack**: Laravel 12, REST API, MySQL, JavaScript, Tailwind CSS
-
----
-
-### 🛠️ Person Centered Feedback Platform
-> Developed using CodeIgniter 3  
-- Feedback and survey modules for aged care & retirement facilities
-- Modules include Consumer Surveys, Employee Feedback, PCI, Incident Tracking
-- Admin dashboard with role permissions and report generation
-
 ---
 
 ## 🧑‍🔧 Tech Stack
 
 **Languages & Frameworks**  
-`PHP` `Laravel` `CodeIgniter` `JavaScript` `jQuery` `Node.js` `React.js` `Bootstrap` `HTML` `CSS`
+`PHP` `Laravel` `CodeIgniter` `JavaScript` `jQuery` `Node.js` `React.js` `Bootstrap` `HTML` `CSS` `MySQL` `VueJs`
 
 **Cloud & DevOps**  
 `AWS EC2` `RDS` `S3` `SQS` `SES` `CloudFront` `CodePipeline`
 
 **Tools & Platforms**  
-`Ubuntu` `XAMPP` `LAMP` `Git` `Postman` `Google Analytics`
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naseefameer03&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naseefameer03&layout=compact)
+`Ubuntu` `LAMP` `XAMPP` `Git` `SVN` `Postman` `Google Analytics` `Stripe` `VSCode` `sublime`
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-informational)](https://your-portfolio-link.com)  
-✉️ Email: yourname@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/naseef-ameer-dev1995)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-informational)](https://naseefameer.rf.gd)  
+✉️ Email: naasfameer@gmail.com
 
 ---
 
