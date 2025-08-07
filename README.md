@@ -1,5 +1,5 @@
 <!-- Banner (replace or comment out as desired) -->
-![Naseef Ameer Banner](https://github.com/naseefameer03/assets/main/banner.png)
+![Naseef Ameer Banner](https://github.com/naseefameer03/naseefameer03/blob/main/assets/main/banner.png?raw=true)
 
 # 👋 Hi, I'm Naseef Ameer
 
