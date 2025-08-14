@@ -21,15 +21,15 @@
 
 ## 🚀 Notable Projects
 
-### 📈 [Centrimlife](https://github.com/naseefameer03/centrimlife)
+### 📈 [Centrimlife](https://github.com/naseefameer03)
 *Multi-tenant ERP for aged care & retirement living — CRM, Lifestyle, Visitor, Dining, Services*
 - **Stack:** Laravel, MySQL, AWS, jQuery, Firebase, Bootstrap
 
-### 🏥 [Person Centered Feedback](https://github.com/naseefameer03/person-centered-feedback)
+### 🏥 [Person Centered Feedback](https://github.com/naseefameer03)
 *Facility feedback platform — surveys, PCI, incident management*
 - **Stack:** CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
-### 🧬 [MLM System](https://github.com/naseefameer03/mlm-system)
+### 🧬 [MLM System](https://github.com/naseefameer03)
 *Binary-tree-based Multi-Level Marketing system—wallet, payouts, reporting*
 - **Stack:** CodeIgniter, MySQL, jQuery, HTML, SSH, cPanel
 
