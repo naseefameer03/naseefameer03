@@ -104,7 +104,7 @@
 ## 📫 Connect With Me
 
 - ✉️ Email: [naasfameer@gmail.com](mailto:naasfameer@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/naseefameer03)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naseef-ameer-dev1995)
 - 🌐 [Personal Website](https://naseefameer.rf.gd) <!-- Update with your URL! -->
 
 ---
