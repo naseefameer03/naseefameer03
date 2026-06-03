@@ -11,12 +11,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🏆 7+ years of professional web development experience—enterprise apps, complex business logic, and cloud deployments
-- 🏫 B.Tech in Computer Science & Engineering
+- 🏆 8 years of professional web development experience—enterprise apps, complex business logic, and cloud deployments
 - 🛠️ Expertise in backend systems, RESTful APIs, payment gateways, and enterprise architectures
 - ☁️ AWS advocate (EC2, RDS, S3, SQS, SES, CloudFront, CodePipeline)
 - 🔒 Focused on clean code, SOLID principles, TDD, performance, and security
-
+- 🏫 B.Tech in Computer Science & Engineering
 ---
 
 ## 🚀 Notable Projects
